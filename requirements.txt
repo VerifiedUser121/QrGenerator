@@ -1,5 +1,5 @@
 To run this project in your machine following python modules need to be installed 
--> Open CMD type "PIP followed by module names " ex -> pip install qrcode
+ Open CMD type "PIP followed by module names " ex pip install qrcode
 tkinter 
 qrcode
 Image , ImageTk 
